@@ -54,4 +54,8 @@ List:
 - Brennan A, Chugh JS, Kline T. Traditional versus open office design: A longitudinal field study. Environment and behavior. 2002 2002;34:279–99. 
 - Oommen, V, Knowles, M, & Zhao, I. Should health service managers embrace open plan work environments? A review. Asia Pacific Journal of Health Management. 2008, 3(2), pp. 37-43.
 
+## Other information:
+*This repository was made by specific group members and uploaded to a temporary environment. This temporary environment has been manually transferred to a a more permanent Hack the Brain Github account. If any of the former team members wish to administer this repository and manage the master branch, then they can contact the current administrator of the repository to gain the proper acces privileges to manage the master branch*
 
+## Video on Project T-STress:
+[![Video image](http://handledmovie.com/get/player01.gif)](https://vimeo.com/177943250)
