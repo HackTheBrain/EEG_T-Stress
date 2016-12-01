@@ -14,6 +14,7 @@ The modern open office was designed for team building and camaraderie but is mos
 ##WHAT
 The T-Stress is a piece of clothing that is easy to wear for office employees. It signals when someone’s stress level is high by measuring the person’s EEG and translating it into the clothing color.
 
+![image 1](https://github.com/HackTheBrain/EEG_T-Stress/blob/master/images/Schermafbeelding%202016-12-01%20om%205.22.15%20p.m..png)
 ##Figuur 1 Sewing action
 
 ##WHAT WE EXPECTED TO HAPPEN
