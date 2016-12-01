@@ -14,9 +14,6 @@ The modern open office was designed for team building and camaraderie but is mos
 ##WHAT
 The T-Stress is a piece of clothing that is easy to wear for office employees. It signals when someone’s stress level is high by measuring the person’s EEG and translating it into the clothing color.
 
-![image 1](https://github.com/HackTheBrain/EEG_T-Stress/blob/master/images/Schermafbeelding%202016-12-01%20om%205.22.15%20p.m..png)
-##Figuur 1 Sewing action
-
 ##WHAT WE EXPECTED TO HAPPEN
 For the T-Stress to work, certain properties in the EEG that correlate to stress must be found.
 According to literature, some stress correlates have been found in the beta and alpha frequency bands on central and frontal sites. Furthermore if we look through the emotional aspect, stress can be translated into an unpleasant and high arousal feeling which has also been linked to frontal alpha and other frequency changes in frontal/central sites.
