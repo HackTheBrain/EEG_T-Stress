@@ -14,15 +14,23 @@ The modern open office was designed for team building and camaraderie but is mos
 ##WHAT
 The T-Stress is a piece of clothing that is easy to wear for office employees. It signals when someone’s stress level is high by measuring the person’s EEG and translating it into the clothing color.
 
+![image](https://github.com/HackTheBrain/EEG_T-Stress/blob/master/images/Schermafbeelding%202.png)
+
+*Sewing Action*
+
 ##WHAT WE EXPECTED TO HAPPEN
 For the T-Stress to work, certain properties in the EEG that correlate to stress must be found.
 According to literature, some stress correlates have been found in the beta and alpha frequency bands on central and frontal sites. Furthermore if we look through the emotional aspect, stress can be translated into an unpleasant and high arousal feeling which has also been linked to frontal alpha and other frequency changes in frontal/central sites.
 To test out theory, we executed a simples stress test by submerging the subject’s hand into ice water for a little under a minute after a baseline was established and recorded. We analyzed data in the frequency spectrum, averaging the data across 2 second epochs.
 For this we choose a g.Nautilus - g.tec's wireless EEG system with 16 dry electrodes due to its good signal quality and easiness to put on-and-off. 
 
+![image](https://github.com/HackTheBrain/EEG_T-Stress/blob/master/images/Schermafbeelding%203.png)
+
 *Figuur 2 stress test*
 
 Although we expected to see some changes between the two conditions (see below figure), that didn’t happen immediately and more careful EEG exploration would have to be done. 
+
+![image](https://github.com/HackTheBrain/EEG_T-Stress/blob/master/images/Schermafbeelding%201.png)
 
 *Figuur 3 Power spectrum averaged across 2 second windows for baseline condition (top) and stress condition (bottom)*
 
@@ -35,10 +43,15 @@ g.Nautilus  g.tec GDS API available for C/C++ , C# (requires an windows server) 
 g.Nautilus  Matlab / g.tec Highspeed Online Processing Library  Any other device (Arduino, other BCI etc.)
 
 The LEDs are positioned so that they are clearly visible on the back of someone in an office chair. 
-Figuur 4 LED's
+
+![image](https://github.com/HackTheBrain/EEG_T-Stress/blob/master/images/Schermafbeelding%204.png)
+
+*Figuur 4 LED's*
 
 ##SOURCES:
-Brennan A, Chugh JS, Kline T. Traditional versus open office design: A longitudinal field study. Environment and behavior. 2002 2002;34:279–99. 
-Oommen, V, Knowles, M, & Zhao, I. Should health service managers embrace open plan work environments? A review. Asia Pacific Journal of Health Management. 2008, 3(2), pp. 37-43.
+List: 
+
+- Brennan A, Chugh JS, Kline T. Traditional versus open office design: A longitudinal field study. Environment and behavior. 2002 2002;34:279–99. 
+- Oommen, V, Knowles, M, & Zhao, I. Should health service managers embrace open plan work environments? A review. Asia Pacific Journal of Health Management. 2008, 3(2), pp. 37-43.
 
 
